@@ -7,3 +7,4 @@ verifica si tiene el meta viewport y los enlaces siguientes:
         <script src="js/jquery-3.2.1.min.js"></script>
 	<script src="js/popper.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
+gracias
